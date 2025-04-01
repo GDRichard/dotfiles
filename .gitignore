@@ -2,13 +2,11 @@
 
 Battle.net/
 NuGet/
-coc/
 configstore/
 devcert/
 gtk-2.0/
 iterm2/
-lazyvim/
-nvim-backup-v1/
+nvim-backup/
 stetic/
 xbuild/
 tmux/plugins/
