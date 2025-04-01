@@ -1,0 +1,14 @@
+.DS_Store
+
+Battle.net/
+NuGet/
+coc/
+configstore/
+devcert/
+gtk-2.0/
+iterm2/
+lazyvim/
+nvim-backup-v1/
+stetic/
+xbuild/
+tmux/plugins/
